@@ -160,6 +160,6 @@
 
 <br>
 
-[***Проект***](https://github.com/IvanoVladimir/karpov_courses/blob/main/Interim_Project/E_com%20.ipynb 'Ссылка на проект')
+#### [***Проект***](https://github.com/IvanoVladimir/karpov_courses/blob/main/Interim_Project/E_com%20.ipynb 'Ссылка на проект')
 
 # [***К содержанию -->***](#-)<br>
