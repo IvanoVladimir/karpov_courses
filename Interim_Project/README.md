@@ -43,8 +43,7 @@
 
 * среда программирования [Jupyter Notebook](https://jupyter.org/).
 
-**Статус проекта:** *Завершён*
-
+**Статус проекта:**  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=150&size=13&duration=2000&pause=2000&color=00FF8E&background=045BFF00&vCenter=true&width=100&height=10&lines=%D0%97%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D1%91%D0%BD)](https://git.io/typing-svg)
 <br>
 
 ---
