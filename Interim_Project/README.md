@@ -1,4 +1,6 @@
-# Содержание :<br>
+# Содержание :
+
+<br>
 
 
 
@@ -22,7 +24,9 @@
 
 <br>
 
-## [***Краткое описание проекта***](#Содержание-:)<br>
+## [***Краткое описание проекта***](#Содержание-:)
+
+<br>
 
 
 **Название:** *e-commerce*
@@ -160,4 +164,4 @@
 
 ## [***Ссылка на проект***](#Содержание-:)<br>
 
-**Проект**(https://github.com/IvanoVladimir/karpov_courses/blob/main/Interim_Project/E_com%20.ipynb)
+[-->](https://github.com/IvanoVladimir/karpov_courses/blob/main/Interim_Project/E_com%20.ipynb)
