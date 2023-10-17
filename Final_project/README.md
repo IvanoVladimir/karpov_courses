@@ -11,9 +11,9 @@
  - [***Ключевые задачи***](#Ключевые-задачи)
  
 
- - [***Ссылка на проект***](https://github.com/IvanoVladimir/karpov_courses/blob/5063d3303f6aca0de2f514571f09daf36a68793b/Final_project/Mobile_games.ipynb 'Ссылка на проект')
+ - [***Ссылка на проект***](https://github.com/IvanoVladimir/karpov_courses/blob/main/Final_project/Mobile_games.ipynb 'Ссылка на проект')
 
----
+--- 
 
 ### [***`Краткое описание проекта`***](#-)<br>
 
