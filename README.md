@@ -20,7 +20,9 @@
 
 ***Название*** | ***Описание***| ***Стек***
 :-:|:-:|:-: 
-[E_com](https://github.com/IvanoVladimir/karpov_courses/tree/main/Interim_Project 'Ссылка на проект')| Предварительное исследование данных о совершенных покупках пользователей, решения и ответы на ряд вопросов | pandas, seaborn, matplotlib, NumPy 
+[E-commerce](https://github.com/IvanoVladimir/karpov_courses/tree/main/Interim_Project 'Ссылка на проект')| Предварительное исследование данных о совершенных покупках пользователей, решения и ответы на ряд вопросов | Python – pandas, seaborn, matplotlib, numpy, datetime; Jupyter Notebook.
+[Mobile games](https://github.com/IvanoVladimir/karpov_courses/tree/main/Interim_Project 'Ссылка на проект')| Предварительное исследование данных о совершенных покупках пользователей, решения и ответы на ряд вопросов | Python – pandas, seaborn, os, pingouin, requests, datetime, scipy, urllib; Jupyter Notebook.
+
 
 </details>
 
