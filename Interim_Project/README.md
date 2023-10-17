@@ -24,15 +24,9 @@
 
  * язык программирования Python3 и его библиотеки:
 
-    + аналитические библиотеки [Pandas](https://pandas.pydata.org/);
+    + [pandas](https://pandas.pydata.org/), [numpy](https://numpy.org/), [matplotlib](https://matplotlib.org/), [seaborn](https://seaborn.pydata.org/), [datetime](https://docs.python.org/3/library/datetime.html)
 
-    + библиотеки для выполнения научных и инженерных расчётов [NumPy](https://numpy.org/);
-
-    + библиотеки для визуализации данных [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/);
-
-    + вспомогательные библиотеки [datetime](https://docs.python.org/3/library/datetime.html);
-
-* среда программирования [Jupyter Notebook](https://jupyter.org/).
+* среда программирования [Jupyter Notebook](https://jupyter.org/)
 
 **Статус проекта:**  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=150&size=13&duration=2000&pause=2000&color=00FF8E&background=045BFF00&vCenter=true&width=100&height=10&lines=%D0%97%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D1%91%D0%BD)](https://git.io/typing-svg)
 
