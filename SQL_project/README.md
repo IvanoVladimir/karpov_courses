@@ -11,7 +11,7 @@
  - [***Ключевые задачи***](#Ключевые-задачи)
  
 
- - [***Ссылка на проект***](https://github.com/IvanoVladimir/karpov_courses/blob/main/SQL_project/Marketing_metrics.ipynb 'Ссылка на проект')
+ - [***Ссылка на проект***](https://github.com/IvanoVladimir/karpov_courses/blob/main/SQL_project/Marketing%20metrics.ipynb 'Ссылка на проект')
 
 ---
 
