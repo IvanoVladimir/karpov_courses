@@ -11,7 +11,7 @@
  - [***Ключевые задачи***](#Ключевые-задачи)
  
 
- - [***Ссылка на проект***](https://github.com/IvanoVladimir/karpov_courses/blob/main/Interim_Project/E_com%20.ipynb 'Ссылка на проект')
+ - [***Ссылка на проект***](https://github.com/IvanoVladimir/karpov_courses/blob/main/SQL_project/Marketing metrics.ipynb 'Ссылка на проект')
 
 ---
 
