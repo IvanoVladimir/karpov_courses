@@ -22,7 +22,7 @@
 :-:|:-:|:-: 
 [E-commerce](https://github.com/IvanoVladimir/karpov_courses/tree/main/Interim_Project 'Ссылка на проект')| Предварительное исследование данных о совершенных покупках пользователей, решения и ответы на ряд вопросов | Python – pandas, seaborn, matplotlib, numpy, datetime; Jupyter Notebook.
 [Mobile games](https://github.com/IvanoVladimir/karpov_courses/tree/main/Interim_Project 'Ссылка на проект')| Предварительное исследование данных о совершенных покупках пользователей, решения и ответы на ряд вопросов | Python – pandas, seaborn, os, pingouin, requests, datetime, scipy, urllib; Jupyter Notebook.
-
+[Marketing metrics](https://github.com/IvanoVladimir/karpov_courses/tree/main/SQL_project 'Ссылка на проект')| Оценка результатов двух прошедших рекламных компаний с помощью метрик, которые покажут эффективность превлечения пользователей в приложение по доставке продуктов.  | Python; Jupyter Notebook; SQL - PostgreSQL, Redash.
 
 </details>
 
